@@ -14,6 +14,7 @@ gem 'font-awesome-sass', '~> 4.7'
 gem 'bootstrap-sass-extras', '~> 0.0.2'
 gem 'devise', '~> 4.2'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
+gem 'sendgrid', '~> 1.2', '>= 1.2.4'
 
 group :development, :test do
   gem 'byebug'
